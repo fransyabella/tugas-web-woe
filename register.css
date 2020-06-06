@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    color: #5a5a5a;
+}
+.inner-register {
+    margin: 80px auto;
+    width: 35%;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+}
